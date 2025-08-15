@@ -1,2 +1,2 @@
-# Wound-website
-Wound classification
+# DiabTester
+Wound classification program
